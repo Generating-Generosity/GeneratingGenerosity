@@ -35,6 +35,10 @@ This page contains descriptions of the team members.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="left">
   Wahideh Achbari
@@ -45,7 +49,10 @@ This page contains descriptions of the team members.
   
 </p>
 
-
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -62,6 +69,10 @@ This page contains descriptions of the team members.
   
 </p>
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
