@@ -28,3 +28,52 @@ This page contains descriptions of the team members.
   Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description.
   
 </p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p align="left">
+  Wahideh Achbari
+  
+  <img align="left" src="assets/docs/foto_wahideh.jpg" alt="Picture Wahideh Achbari" width="300">
+  
+  Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description.
+  
+</p>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p align="left">
+  Fijnanda van Klingeren
+  
+  <img align="left" src="assets/docs/foto_fijnanda.jpg" alt="Picture Fijnanda van Klingeren" width="300">
+  
+  Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description.
+  
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p align="left">
+  Max Littel
+  
+  <img align="left" src="assets/docs/foto_max.jpg" alt="Picture Max Littel" width="300">
+  
+  Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description. Description description description.
+  
+</p>
