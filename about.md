@@ -4,11 +4,9 @@ title: About us
 
 This page contains descriptions of the team members.
 
-<img src="assets/docs/foto_rene.jpg" alt="Alt Text" width="300" height="200">
-
 René Bekkers
-![Picture René Bekkers](assets/docs/foto_rene.jpg)
+<img src="assets/docs/foto_rene.jpg" alt="Picture René Bekkers" width="600">
 
 
 Marlou Ramaekers
-![Picture Marlou Ramaekers](assets/docs/foto_marlou.jpg)
+<img src="assets/docs/foto_marlou.jpg" alt="Picture Marlou Ramaekers" width="600">
