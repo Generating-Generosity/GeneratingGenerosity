@@ -13,7 +13,7 @@ This page contains descriptions of the team members.
   
 </p>
 
-
+\
 
 <p align="left">
   Marlou Ramaekers
