@@ -20,6 +20,7 @@ This page contains descriptions of the team members.
 <br>
 <br>
 <br>
+<br>
 
 <p align="left">
   Marlou Ramaekers
