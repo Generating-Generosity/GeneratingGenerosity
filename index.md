@@ -1,4 +1,4 @@
-![Generating Generosity logo](assets/docs/logo-placeholder.jpg)
+![Generating Generosity logo](assets/docs/logo_placeholder.jpg)
 
 This is a piece of text.
 
